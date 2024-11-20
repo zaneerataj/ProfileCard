@@ -62,3 +62,6 @@ const UserCard = (props: UserCardProp) => {
 };
 
 export default UserCard;
+
+// 1. map function
+// 2.props
